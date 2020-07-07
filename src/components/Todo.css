@@ -1,0 +1,7 @@
+.completed p {
+    text-decoration: line-through;
+}
+.App {
+    /* width: 50%; */
+    margin: 50px 40%;
+}
